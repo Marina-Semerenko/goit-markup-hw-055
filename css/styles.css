@@ -466,6 +466,7 @@ p {
     }
     .footer-cont {
       margin-left: auto;
+     
     }
     .subscribe {
       margin-bottom: 16px;
@@ -473,13 +474,14 @@ p {
       font-size: 16px;
       line-height: 1.5;
       letter-spacing: 0.02em;
-      color: #ffffff;
+      color: #ffffff; 
     }
     .footer-form {
       display: flex;
-      gap 24px;
+     gap: 24px;
     }
     .footer-label {
+      
     }
     .footer-form-input {
       width: 264px;
