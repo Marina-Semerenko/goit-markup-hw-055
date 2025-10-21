@@ -518,8 +518,9 @@ p {
       border-radius: 4px;
       gap: 16px;
       }
-      
-
+      .footer-btn-icon {
+      margin-left: 16px;
+      }
    /*Modal window*/
    .backdrop {
   position: fixed;
