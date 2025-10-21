@@ -457,7 +457,7 @@ p {
     .footer-icon {
         display: flex;
         gap: 16px;
-        margin-left: 16px;
+       
     }
     .icon-link {
         width: 40px;
